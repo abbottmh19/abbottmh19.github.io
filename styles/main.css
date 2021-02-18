@@ -1,0 +1,7 @@
+.protruding {
+    box-shadow: 5px 10px 15px 10px;
+}
+
+.cool-pattern {
+    background: linear-gradient(90deg, lightblue, pink);
+}
